@@ -1,0 +1,23 @@
+.float-left {
+    float: left;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.text-transform {
+    text-transform: uppercase;
+}
+
+.text-transform {
+    text-transform: capitalize;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-iblock {
+    display: inline-block;
+}
